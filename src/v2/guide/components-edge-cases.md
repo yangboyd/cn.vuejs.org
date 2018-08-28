@@ -268,7 +268,7 @@ template: '<div><stack-overflow></stack-overflow></div>'
 
 ### 组件之间的循环引用
 
-假设你需要构建一个文件目录树，像访达或资源管理器那样的。你可能有一个 `<tree-folder>` 组件，模板是这样的：
+假设你需要构建一个文件目录树，像Finder或资源管理器那样的。你可能有一个 `<tree-folder>` 组件，模板是这样的：
 
 ``` html
 <p>
